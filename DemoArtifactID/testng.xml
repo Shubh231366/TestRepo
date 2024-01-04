@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNG.CaptureScreenshot2"/>
+      <class name="testNG.TestNG5MultipleTestRun"/>
+      <class name="testNG.TestNG2"/>
+      <class name="testNG.TestNG1"/>
+      <class name="testNG.TestNG4SkipTest"/>
+      <class name="testNG.TestNG7DependsOnMethod"/>
+      <class name="testNG.TestNG6MixTests"/>
+      <class name="testNG.Dataprovider"/>
+      <class name="testNG.Assertion1"/>
+      <class name="testNG.Assertion2"/>
+      <class name="testNG.TestNG3Prioritization"/>
+      <class name="testNG.Assertion3"/>
+      <class name="restAssured.Get"/>
+      <class name="testNG.Assertion4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
