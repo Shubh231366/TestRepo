@@ -1,0 +1,47 @@
+2023-08-13 18:31:34,117 - Log4j -INFO - File location specified for config.properties file
+2023-08-13 18:31:34,121 - Log4j -INFO - File location specified for locator.properties file
+2023-08-13 18:31:34,122 - Log4j -INFO - File location specified for testdata.properties file
+2023-08-13 18:31:34,122 - Log4j -INFO - properties loaded for config file
+2023-08-13 18:31:34,123 - Log4j -INFO - properties loaded for locator file
+2023-08-13 18:31:34,123 - Log4j -INFO - properties loaded for testdata file
+2023-08-13 18:31:34,124 - Log4j -INFO - Chromedriver path specified
+2023-08-13 18:31:35,381 - Log4j -INFO - Chrome Instance opened
+2023-08-13 18:31:35,518 - Log4j -INFO - Window maximized
+2023-08-13 18:31:35,542 - Log4j -INFO - Cookied deleted
+2023-08-13 18:31:35,559 - Log4j -INFO - Implicit wait implimented
+2023-08-13 18:31:36,365 - Log4j -INFO - Application URL fetched from config.properties file and application launched
+2023-08-13 18:31:36,444 - Log4j -INFO - WebElement Email is displayed
+2023-08-13 18:31:36,486 - Log4j -INFO - WebElement Email is enabled
+2023-08-13 18:31:38,663 - Log4j -INFO - Email Id is entered in the email field
+2023-08-13 18:31:40,803 - Log4j -INFO - Password is entered in the password field
+2023-08-13 18:31:42,953 - Log4j -INFO - Login button is clicked and user is logged in
+2023-08-13 18:31:45,098 - Log4j -INFO - Browser Instance closed
+2023-09-07 19:41:34,821 - Log4j -INFO - File location specified for config.properties file
+2023-09-07 19:41:34,827 - Log4j -INFO - File location specified for locator.properties file
+2023-09-07 19:41:34,828 - Log4j -INFO - File location specified for testdata.properties file
+2023-09-07 19:41:34,831 - Log4j -INFO - properties loaded for config file
+2023-09-07 19:41:34,832 - Log4j -INFO - properties loaded for locator file
+2023-09-07 19:41:34,832 - Log4j -INFO - properties loaded for testdata file
+2023-09-07 19:41:34,833 - Log4j -INFO - Chromedriver path specified
+2023-09-07 19:41:37,714 - Log4j -INFO - Chrome Instance opened
+2023-09-07 19:41:37,866 - Log4j -INFO - Window maximized
+2023-09-07 19:41:37,906 - Log4j -INFO - Cookied deleted
+2023-09-07 19:41:37,924 - Log4j -INFO - Implicit wait implimented
+2023-09-07 19:43:02,118 - Log4j -INFO - File location specified for config.properties file
+2023-09-07 19:43:02,124 - Log4j -INFO - File location specified for locator.properties file
+2023-09-07 19:43:02,125 - Log4j -INFO - File location specified for testdata.properties file
+2023-09-07 19:43:02,126 - Log4j -INFO - properties loaded for config file
+2023-09-07 19:43:02,127 - Log4j -INFO - properties loaded for locator file
+2023-09-07 19:43:02,127 - Log4j -INFO - properties loaded for testdata file
+2023-09-07 19:43:02,127 - Log4j -INFO - Chromedriver path specified
+2023-09-07 19:43:03,614 - Log4j -INFO - Chrome Instance opened
+2023-09-07 19:43:03,753 - Log4j -INFO - Window maximized
+2023-09-07 19:43:03,772 - Log4j -INFO - Cookied deleted
+2023-09-07 19:43:03,794 - Log4j -INFO - Implicit wait implimented
+2023-09-07 19:43:09,243 - Log4j -INFO - Application URL fetched from config.properties file and application launched
+2023-09-07 19:43:09,365 - Log4j -INFO - WebElement Email is displayed
+2023-09-07 19:43:09,397 - Log4j -INFO - WebElement Email is enabled
+2023-09-07 19:43:11,533 - Log4j -INFO - Email Id is entered in the email field
+2023-09-07 19:43:13,689 - Log4j -INFO - Password is entered in the password field
+2023-09-07 19:43:15,830 - Log4j -INFO - Login button is clicked and user is logged in
+2023-09-07 19:43:18,065 - Log4j -INFO - Browser Instance closed
